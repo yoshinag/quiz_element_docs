@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>元素！覚える！ ドキュメント</title>
+  <style>
+    :root {
+      --bg: #0d1117;
+      --card: #161b22;
+      --border: #30363d;
+      --text: #e6edf3;
+      --sub: #8b949e;
+      --accent: #1f6feb;
+      --accent-hover: #388bfd;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      padding: 40px 20px;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Noto Sans JP", Meiryo, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.7;
+    }
+    .container {
+      max-width: 720px;
+      margin: 0 auto;
+    }
+    header {
+      text-align: center;
+      margin-bottom: 48px;
+    }
+    h1 {
+      font-size: 2rem;
+      margin: 0 0 8px;
+    }
+    .subtitle {
+      color: var(--sub);
+      margin: 0;
+    }
+    h2 {
+      font-size: 1.25rem;
+      border-bottom: 1px solid var(--border);
+      padding-bottom: 8px;
+      margin-top: 40px;
+    }
+    .card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 20px 24px;
+      margin: 16px 0;
+      transition: border-color 0.15s;
+    }
+    .card:hover {
+      border-color: var(--accent);
+    }
+    .card a {
+      color: var(--accent-hover);
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .card a:hover {
+      text-decoration: underline;
+    }
+    .card .desc {
+      color: var(--sub);
+      font-size: 0.9rem;
+      margin: 6px 0 0;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #fff;
+      font-size: 0.75rem;
+      padding: 2px 8px;
+      border-radius: 999px;
+      margin-left: 8px;
+      vertical-align: middle;
+    }
+    footer {
+      margin-top: 64px;
+      text-align: center;
+      color: var(--sub);
+      font-size: 0.85rem;
+    }
+    footer a { color: var(--sub); }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>元素！覚える！</h1>
+      <p class="subtitle">元素記号・周期表・化学トリビアを楽しく学ぶ学習クイズアプリ</p>
+    </header>
+
+    <h2>プライバシーポリシー</h2>
+
+    <div class="card">
+      <a href="privacy_policies/quiz_element_basic.html">元素！覚える！ Basic（広告実装版）<span class="badge">Basic</span></a>
+      <p class="desc">対象年齢 6+ / Google AdMob 広告あり / 課金なし。<code>applicationId</code>: <code>dev.foo.iroirotool.quiz.element.basic</code></p>
+    </div>
+
+    <h2>お問い合わせ</h2>
+
+    <div class="card">
+      <p class="desc">本アプリに関するお問い合わせは、各プライバシーポリシー末尾に記載の連絡先までお願いします。</p>
+    </div>
+
+    <footer>
+      <p>&copy; 2026 元素！覚える！ Project</p>
+    </footer>
+  </div>
+</body>
+</html>
