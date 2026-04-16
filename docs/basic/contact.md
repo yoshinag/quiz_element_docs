@@ -7,9 +7,12 @@
 
 ## お問い合わせ方法
 
-アプリに関するご質問、不具合のご報告、プライバシーに関するご相談は、以下のメールアドレスまでお気軽にご連絡ください。
+アプリに関するご質問、不具合のご報告、プライバシーに関するご相談は、以下のメールアドレスまでご連絡ください。
 
-**メールアドレス**: [iroirotool+elementbasic@gmail.com](mailto:iroirotool+elementbasic@gmail.com)
+| 種別 | メールアドレス |
+|---|---|
+| アプリに関するお問い合わせ | [iroirotool+elementbasic@gmail.com](mailto:iroirotool+elementbasic@gmail.com) |
+| 営業に関するお問い合わせ | [iroirotool+sales@gmail.com](mailto:iroirotool+sales@gmail.com) |
 
 ## お問い合わせの際のお願い
 
@@ -21,6 +24,6 @@
 
 ## 回答について
 
-- 原則として **3 営業日以内** にご返信いたします。
+- 原則として **5 営業日以内** にご返信いたします。
 - お問い合わせの内容によっては、回答にお時間をいただく場合があります。
 - いただいた個人情報（メールアドレス等）は、お問い合わせへの対応のみに使用し、他の目的には利用いたしません。
