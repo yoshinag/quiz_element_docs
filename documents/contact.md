@@ -9,7 +9,7 @@
 
 アプリに関するご質問、不具合のご報告、プライバシーに関するご相談は、以下のメールアドレスまでお気軽にご連絡ください。
 
-**メールアドレス**: [iroirotool@gmail.com](mailto:iroirotool@gmail.com)
+**メールアドレス**: [iroirotool+elementbasic@gmail.com](mailto:iroirotool+elementbasic@gmail.com)
 
 ## お問い合わせの際のお願い
 
