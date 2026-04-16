@@ -5,3 +5,4 @@
 ## ドキュメント一覧
 
 - [プライバシーポリシー（Basic・広告実装版）](privacy_policies/quiz_element_basic.md)
+- [ユーザプライバシー選択](user_privacy_choices.md)
