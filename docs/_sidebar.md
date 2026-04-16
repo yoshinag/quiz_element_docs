@@ -2,3 +2,4 @@
 - **プライバシーポリシー**
   - [Basic（広告実装版）](basic/quiz_element_basic.md)
 - [ユーザプライバシー選択](basic/user_privacy_choices.md)
+- [お問い合わせ](contact.md)
