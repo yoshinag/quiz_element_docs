@@ -124,7 +124,7 @@
 |----------------|-----------------------------------------------------|
 | **事業者（個人事業主）** | （屋号）：foo                                            |
 | **代表者**        | yoshihito nagai                                     |
-| **メールアドレス**    | [iroirotool@gmail.com](mailto:iroirotool@gmail.com) |
+| **メールアドレス**    | [iroirotool+elementbasic@gmail.com](mailto:iroirotool+elementbasic@gmail.com) |
 
 ---
 
